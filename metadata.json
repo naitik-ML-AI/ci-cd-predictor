@@ -1,0 +1,6 @@
+{
+  "name": "AI CI/CD Failure Predictor",
+  "description": "Production-grade DevOps dashboard for predicting CI/CD pipeline failure risks before deployment using machine learning factor explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
